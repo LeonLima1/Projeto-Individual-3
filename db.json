@@ -4,28 +4,28 @@
       "id": 1,
       "nome": "Batata frita",
       "descricao": "Porção grande",
-      "preço": "15.5",
+      "preço": "R$15,50",
       "imagem":"https://img77.uenicdn.com/image/upload/v1623263419/business/5c3296bf-cfde-4016-8d12-f1805444f440.png"
     },
     {
       "id": 2,
       "nome": "Bolinho de bacalhau",
       "descricao": "Porção com 500g de bacalhau",
-      "preço": "18.5",
+      "preço": "R$18,50",
       "imagem":"https://s.cornershopapp.com/product-images/2141471.png?versionId=H5ETWjMk4d4UvgJvDI43d5uSU_9oVfBZ"
     },
     {
       "id": 3,
       "nome": "Torresmo",
       "descricao": "Porção com 1kg de torresmo, panceta ou toucinho em cubos",
-      "preço": "17.5",
+      "preço": "R$17,50",
       "imagem":"https://api.badum.com.br/storage/produto/575/imagem_661.png"
     },
     {
       "id": 4,
       "nome": "Frango à passarinho",
       "descricao": "Porção com 1kg de frango à passarinho",
-      "preço": "20.5",
+      "preço": "R$20,50",
       "imagem":"https://www.menuart.com.br/wp-content/uploads/2022/05/frango-a-passarinho.png"
     }
   ],
@@ -34,28 +34,28 @@
       "id": 1,
       "nome": "Coca-Cola 350ml",
       "descricao": "Coca lata",
-      "preço": "5.5",
+      "preço": "R$5,50",
       "imagem": "https://www.piramidesdistribuidora.com.br/images/original/3716-coca-cola-lata-350ml-12un.20220323174142.png"
     },
     {
       "id": 2,
       "nome": "fanta uva 350ml",
       "descricao": "Fanta uva lata",
-      "preço": "5.5",
+      "preço": "R$5,5O",
       "imagem":"https://trimais.vteximg.com.br/arquivos/ids/1028659-1000-1000/foto_original.jpg?v=637716210071430000"
     },
     {
       "id": 3,
       "nome": "Fanta laranja 350ml",
       "descricao": "Fanta laranja lata",
-      "preço": "5.5",
+      "preço": "R$5,50",
       "imagem":"https://static.clubeextra.com.br/img/uploads/1/918/23008918.png"
     },
     {
       "id": 4,
       "nome": "Coca-Cola 600ml",
       "descricao": "Coca 600ml",
-      "preço": "5.5",
+      "preço": "RS5,50",
       "imagem":"https://falkaolanches.com.br/wp-content/uploads/2022/03/4-2.png"
     }
   ],
@@ -64,29 +64,51 @@
       "id": 1,
       "nome": "Chopp 500ml",
       "descricao": "Artesanal, caneca",
-      "preço": "16.9",
+      "preço": "R$16,50",
       "imagem":"https://imagensemoldes.com.br/wp-content/uploads/2020/05/Caneca-de-Chopp-PNG.png"
     },
     {
       "id": 2,
       "nome": "Chopp 300ml",
       "descricao": "Artesanal, tulipa",
-      "preço": "9.9",
+      "preço": "R$9,90",
       "imagem":"https://imagensemoldes.com.br/wp-content/uploads/2020/05/Tulipa-de-Chopp-PNG.png"
     },
     {
       "id": 3,
       "nome": "Budweiser",
       "descricao": "Long neck",
-      "preço": "12",
+      "preço": "R$12,00",
       "imagem":"https://www.designi.com.br/images/preview/10001726.jpg"
     },
     {
       "id": 4,
       "nome": "Heineken",
       "descricao": "Long neck",
-      "preço": "14",
+      "preço": "RS14,00",
       "imagem":"https://www.designi.com.br/images/preview/10173654.jpg"
     }
-  ]
+  ],
+  "mesas": [
+    {
+      "id": 1,
+      "nome": "Mesa 1",
+      "descricao": "Descreva seu pedido"
+    },
+    {
+      "id": 2,
+      "nome": "Mesa 2",
+      "descricao": "Descreva seu pedido"
+    },
+    {
+      "id": 3,
+      "nome": "Mesa 3",
+      "descricao": "Descreva seu pedido"
+    },
+    {
+      "id": 4,
+      "nome": "Mesa 4",
+      "descricao": "Descreva seu pedido"
+    }
+    ]
 }
